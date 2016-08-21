@@ -14,7 +14,7 @@
 ----------
 
 
-## Contenido
+# Contenido
 
 - [Uso del repositorio](#uso-del-repositorio)
 	- [Problemas de la semana](#problemas-de-la-semana)
@@ -28,10 +28,10 @@
 ----------
 
 
-## Uso del repositorio
+# Uso del repositorio
 A continuación hay algunas sugerencias para que no nos revolvamos a la hora de subir y presentar nuestras soluciones.
 
-### Problemas de la semana
+# Problemas de la semana
 Para cada *Problema de la Semana* habrá una carpeta, donde cada quien subirá su código con su nombre y la extensión correspondiente.
 
 Para nombrar la carpeta el formato será el siguiente:
@@ -42,7 +42,7 @@ Como ejemplo, para el problema Crypt Kicker, el primer problema de la semana 2 l
 
 
 
-### Subida de soluciones
+# Subida de soluciones
 Si la solución o soluciones comprenden sólo un archivo cada una, el código fuente irá directamente a la carpeta correspondiente y la única condición con el nombre del archivo es que comience especificando el nombre del autor sin mucha ambigüedad.
 
 Continuando con el ejemplo anterior, Andrés García podría subir un archivo con el nombre `andresGG-EstoYaNoImportaLOL.py` de preferencia no muy largo y POR FAVOR con la extensión correcta.
@@ -51,7 +51,7 @@ Si hay más de un archivo por solución (cosa que dudo suceda), los archivos se 
 
 
 
-### Manejo de ramas
+# Manejo de ramas
 > Si todavía no sabes cómo usar las ramas pueden saltarse esta sección por ahora y subir todo a la rama principal (`master`). Si si, no seas ...flojo y sigue leyendo ¬¬.
 
 Cada quién tendrá una rama propia, con su nombre, donde podrá trabajar con sus pruebas y código incompleto.
