@@ -4,7 +4,7 @@
 
  **Checa la [página del proyecto](https://ad115.github.io/TuringClub/), está muy mona! ~(O.O)~**
  
- ----------
+#HSLIDE
 
 > Si no sabes ni que p... con **GitHub**, sería bueno que vieras [esto](https://guides.github.com/)
 
